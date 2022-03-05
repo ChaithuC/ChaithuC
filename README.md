@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ csc4812@outlook.com
+- 📫 Reach me @ csc4812@outlook.com
 
 <!---
 ChaithuC/ChaithuC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
