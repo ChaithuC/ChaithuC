@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChaithuC
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Science and working as Python Devloper
+- 💞️ I’m looking to collaborations ...
 - 📫 Reach me @ csc4812@outlook.com
 
 <!---
